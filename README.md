@@ -1,6 +1,9 @@
-# I'm Han Beomseok
+# Introducing myself
 
-<a href="mailto:bmtosss@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tls1gy2rms3@gmail.com"/></a>
+Name: Han Beomseok
+
+Contact: <a href="mailto:bmtosss@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tls1gy2rms3@gmail.com"/></a>
+
 
 # Skills
 <div>
@@ -23,6 +26,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white">
 </div>
 <br>
+
+# 
 
 # Project
 
