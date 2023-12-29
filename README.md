@@ -46,7 +46,7 @@ Contact: <a href="mailto:bmtosss@gmail.com"><img src="https://img.shields.io/bad
 
 | 교육기관명                                                 | 과정명                                                                                        | 기간                | 교육내용                                      |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
-|신한투자증권|프로디지털아카데미 3기|23.12.27 ~ 진행중| 클라우드 기반 금융ICT개발|
+|<a href="https://shinhansec.com/">신한투자증권</a>|<a href="https://prodigitalacademy.oopy.io/">프로 디지털 아카데미 3기</a>|23.12.27 ~ 진행중| 클라우드 기반 금융ICT개발|
 | <a href="https://www.connect.or.kr/">네이버 커넥트재단</a> | <a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a> | 21.08.23 ~ 21.12.03 | 학습 스프린트, 그룹 프로젝트                  |
 | <a href="https://www.connect.or.kr/">네이버 커넥트재단</a> | <a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a> | 21.07.19 ~ 21.08.13 | 개발 지식, 자바스크립트 문법, 릴레이 프로젝트 |
 | <a href="https://www.codeit.kr/">코드잇</a>                | <a href="https://www.boostcourse.org/study-cs50-2nd/">대학생 코딩 캠프 7기</a>                | 21.06.23 ~ 21.7.22  | CS 기본지식, 개발 지식                        |
