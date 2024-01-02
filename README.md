@@ -1,6 +1,9 @@
-# Introducing myself
+# 👋 Hi I’m Beomseok
+Active Adventurer 한범석입니다.
 
-Name: Han Beomseok
+새로운 것에 대해 두려움을 갖기 보다는 포용한다는 마음가짐으로 도전합니다.
+
+Web Full Stack, DevOps 기술에 관심을 갖고 있습니다.
 
 <img src='https://github-readme-stats.vercel.app/api?username=beomseok37&show_icons=true&theme=default' />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=beomseok37&layout=compact&count_private=true&hide=swift,kotlin' />
