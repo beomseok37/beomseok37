@@ -1,4 +1,5 @@
 # 👋 Hi I’m Beomseok
+
 Active Adventurer 한범석입니다.
 
 새로운 것에 대해 두려움을 갖기 보다는 포용한다는 마음가짐으로 도전합니다.
@@ -10,8 +11,8 @@ Web Full Stack, DevOps 기술에 관심을 갖고 있습니다.
 
 Contact: <a href="mailto:bmtosss@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tls1gy2rms3@gmail.com"/></a>
 
-
 # Skills
+
 <div>
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -33,23 +34,23 @@ Contact: <a href="mailto:bmtosss@gmail.com"><img src="https://img.shields.io/bad
 </div>
 <br>
 
-# 
+#
 
 # Project
 
-| 기간                | 프로젝트명 | 프로젝트 소개     | 깃허브 url                                                                | 배포 url                                           |
-| ------------------- | ---------- | ----------------- | ------------------------------------------------------------------------- | -------------------------------------------------- |
-|23.09.08 ~ 진행중 | Jibbap | 가족, 모임 서비스| 없음 | 없음 |
-| 23.04.04 ~ 23.06.08 | Hair-Kut | 가상헤어스타일링 서비스| <a href='https://github.com/Hair-Kut/frontend'>Repository</a>| <a href='https://frontend-ten-lyart.vercel.app/'>배포(서버중단)</a> |
-| 22.09.16 ~ 23.06.22 | dev | 프론트엔드 개발 스터디| <a href='https://github.com/beomseok37/dev'>Repository</a>| <a href='https://www.beomseok.dev'>배포</a>|
-| 22.08.20 ~ 22.08.24 | 추천의 유혹 | Preset을 이용한 이커머스 플랫폼| <a href='https://github.com/orgs/kurly-tor/repositories'>Repository</a>| 배포중단 |
-| 21.10.25 ~ 21.12.03 | COCOO      | 개발자를 위한 SNS | <a href='https://github.com/boostcampwm-2021/WEB26-COKIRI'>Repository</a> | 배포중단 |
+| 기간                | 프로젝트명  | 프로젝트 소개                   | 깃허브 url                                                                | 배포 url                                                            |
+| ------------------- | ----------- | ------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 23.09.08 ~ 진행중   | Jibbap      | 가족, 모임 서비스               | <a href='https://github.com/Jibbap'>Repository</a>                        | 없음                                                                |
+| 23.04.04 ~ 23.06.08 | Hair-Kut    | 가상헤어스타일링 서비스         | <a href='https://github.com/Hair-Kut/frontend'>Repository</a>             | <a href='https://frontend-ten-lyart.vercel.app/'>배포(서버중단)</a> |
+| 22.09.16 ~ 23.06.22 | dev         | 프론트엔드 개발 스터디          | <a href='https://github.com/beomseok37/dev'>Repository</a>                | <a href='https://www.beomseok.dev'>배포</a>                         |
+| 22.08.20 ~ 22.08.24 | 추천의 유혹 | Preset을 이용한 이커머스 플랫폼 | <a href='https://github.com/orgs/kurly-tor/repositories'>Repository</a>   | 배포중단                                                            |
+| 21.10.25 ~ 21.12.03 | COCOO       | 개발자를 위한 SNS               | <a href='https://github.com/boostcampwm-2021/WEB26-COKIRI'>Repository</a> | 배포중단                                                            |
 
 # Education
 
 | 교육기관명                                                 | 과정명                                                                                        | 기간                | 교육내용                                      |
 | ---------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------- | --------------------------------------------- |
-|<a href="https://shinhansec.com/">신한투자증권</a>|<a href="https://prodigitalacademy.oopy.io/">프로 디지털 아카데미 3기</a>|23.12.27 ~ 진행중| 클라우드 기반 금융ICT개발|
+| <a href="https://www.inflearn.com/">인프런</a>             | <a href="https://www.inflearn.com/course/inflearn-warmup-club-study-0">인프런 워밍업 클럽</a> | 24.02.19 ~ 24.03.08 | 백엔드 개발(Spring Boot)                      |
 | <a href="https://www.connect.or.kr/">네이버 커넥트재단</a> | <a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 멤버십</a> | 21.08.23 ~ 21.12.03 | 학습 스프린트, 그룹 프로젝트                  |
 | <a href="https://www.connect.or.kr/">네이버 커넥트재단</a> | <a href="https://boostcamp.connect.or.kr/program_wm.html">부스트캠프 웹·모바일 6기 챌린지</a> | 21.07.19 ~ 21.08.13 | 개발 지식, 자바스크립트 문법, 릴레이 프로젝트 |
 | <a href="https://www.codeit.kr/">코드잇</a>                | <a href="https://www.boostcourse.org/study-cs50-2nd/">대학생 코딩 캠프 7기</a>                | 21.06.23 ~ 21.7.22  | CS 기본지식, 개발 지식                        |
